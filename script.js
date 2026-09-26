@@ -29,13 +29,13 @@ const VARIANTS = {
 
 // PRODUCT DATA
 const CAP_IMAGES = {
-  "Multicam Black": "/images/multicam-black.png",
-  "Dark Navy": "/images/dark-navy.png",
-  "Black": "/images/black.png",
-  "Royal Blue": "/images/royal-blue.png",
-  "Red": "/images/red.png",
-  "Olive": "/images/olive.png",
-  "Dark Grey": "/images/dark-grey.png"
+  "Multicam Black": "images/multicam-black.png",
+  "Dark Navy": "images/dark-navy.png",
+  "Black": "images/black.png",
+  "Royal Blue": "images/royal-blue.png",
+  "Red": "images/red.png",
+  "Olive": "images/olive.png",
+  "Dark Grey": "images/dark-grey.png"
 };
 
 const CAP_PRODUCTS = [
